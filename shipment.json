@@ -1,0 +1,27 @@
+{
+  "shipment": {
+    "to_address": {
+        "name": "Alice Johnson",
+        "street1": "388 Townsend St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94107",
+        "country": "US",
+        "phone": "5405055550"    },
+    "from_address": {
+        "name": "Michael Rivera",
+        "street1": "6801 Hollywood Blvd",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90028",
+        "country": "US",
+        "phone": "3231234567"
+    },
+    "parcel": {
+      "length": 21,
+      "width": 16,
+      "height": 12,
+      "weight": 24
+    }
+  }
+}
